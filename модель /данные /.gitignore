@@ -1,0 +1,13 @@
+# Данные 
+*.csv
+*.xlsx
+data/
+
+# Jupyter и Python кэш
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Виртуальное окружение 
+venv/
+.env
